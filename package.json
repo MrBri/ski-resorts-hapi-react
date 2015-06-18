@@ -1,13 +1,13 @@
 {
   "name": "ski-areas",
-  "version": "1.0.0",
-  "description": "node js practice",
+  "version": "0.0.1",
+  "description": "node js practice with hapi and react",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "babel-node": "babel-node"
   },
-  "author": "",
+  "author": "Tyler Briles",
   "license": "ISC",
   "dependencies": {
     "hapi": "^8.6.1",
