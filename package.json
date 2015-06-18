@@ -1,0 +1,19 @@
+{
+  "name": "ski-areas",
+  "version": "1.0.0",
+  "description": "node js practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "babel-node": "babel-node"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^8.6.1",
+    "hapi-react-views": "^3.0.1",
+    "hoek": "^2.14.0",
+    "mh-xmldown": "^0.1.0",
+    "react": "^0.13.3"
+  }
+}
